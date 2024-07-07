@@ -1,0 +1,23 @@
+body
+{
+    background: linear-gradient(45deg, #8360c3, #2ebf91);
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite;
+
+    /* background-image:
+    url("pouvoir_de_soutenir_nos_jeunes.jpg")
+    background-repeat: no-repeat;
+    background-size: cover */
+}
+
+@keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}

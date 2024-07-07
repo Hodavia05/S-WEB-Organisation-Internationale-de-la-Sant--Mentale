@@ -1,1 +1,1 @@
-# S-WEB-Organisation-Internationale-de-la-Sant--Mentale
+# S-WEB-Organisation-Internationale-de-la-Santé-Mentale
