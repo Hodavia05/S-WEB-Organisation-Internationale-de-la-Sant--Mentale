@@ -21,3 +21,14 @@ body
       background-position: 0% 50%;
     }
 }
+.center-text {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Ajoutez un écart entre les éléments si nécessaire */
+}
+
+
+.center-text h1 {
+  font-size: 22px; /* Ajustez cette taille selon vos besoins */
+  font-weight: bold;
+}
